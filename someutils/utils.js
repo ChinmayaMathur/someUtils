@@ -8,3 +8,7 @@ function divide(c,d) {
 function product(e,f) {
     return e ^ f
 }
+
+function subtract(g,h) {
+    return g - h
+}
