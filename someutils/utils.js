@@ -14,5 +14,5 @@ function subtract(g,h) {
 }
 
 function add(i,j) {
-    return i - j
+    return i + j
 }
