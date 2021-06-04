@@ -12,3 +12,7 @@ function product(e,f) {
 function subtract(g,h) {
     return g - h
 }
+
+function add(i,j) {
+    return i - j
+}
